@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Photo App</title>
+</head>
+<body>
+<h2>사진 목록 페이지</h2>
+<h3><a href="{% url 'photo_post' %}">New Photo</a></h3>
+<section>
+    {% for photo in photos %} <!--장고에서는 템플릿 태그 없으면 html 적용 X-->
+    <div>
+        <h2>
+            <a href="{% url 'photo_detail' pk=photo.pk %}">{{photo.title}}</a>
+        </h2>
+        <img src="{{photo.image}}" width="50%">
+        <p>{{photo.author}}</p>
+        <p>{{photo.description}}</p>
+    </div>
+    {% endfor %} <!-- for문의 종료 -->
+</section>
+</body>
+</html>
