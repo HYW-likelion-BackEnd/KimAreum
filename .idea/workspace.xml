@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a15570c4-e334-45b4-b470-9737cd84947c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Django_01/photo/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_01/photo/templates/photo/photo_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_01/photo/templates/photo/photo_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_01/photo/templates/photo/photo_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django_01/photo/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AREUMK.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AREUMK.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a15570c4-e334-45b4-b470-9737cd84947c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
