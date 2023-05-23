@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>아름이의 투두리스트 ~내용~</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+</head>
+<body>
+  <div class="container">
+    <h1>💗 Todo Detail 💗</h1>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title">{{todo.title}}</h5>
+              <p class="card-text">{{todo.description}}</p>
+              <a href="{% url 'todo_list' %}" class="btn btn-primary">목록으로</a>
+            </div>
+          </div>
+        </div>
+    </div>
+  </div>
+</body>
+</html>
+

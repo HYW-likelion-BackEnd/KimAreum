@@ -4,7 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a15570c4-e334-45b4-b470-9737cd84947c" name="Changes" comment="" />
+    <list default="true" id="f765fa2a-e80a-4db4-b243-e408d856140b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Django_01/.idea/Django_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_01/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/mytodo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/mytodo/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/mytodo/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/mytodo/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/mytodo/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/todo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/todo/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/todo/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/todo/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/todo/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/todo/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/todo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/todo/templates/todo/done_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/todo/templates/todo/todo_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/todo/templates/todo/todo_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/todo/templates/todo/todo_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/todo/templates/todo/todo_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/todo/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/todo/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_02/todo/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AREUMK.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AREUMK.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_01/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Django_01/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +45,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -24,7 +56,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Pvd9IRO8fOOJGvqjbWzajb3dga" />
+  <component name="ProjectId" id="2PvgHRvd6hULCtBhVtxGf5Zp23c" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -32,23 +64,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Likelion"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Django_plz&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a15570c4-e334-45b4-b470-9737cd84947c" name="Changes" comment="" />
-      <created>1684341335408</created>
+      <changelist id="f765fa2a-e80a-4db4-b243-e408d856140b" name="Changes" comment="" />
+      <created>1684342880585</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1684341335408</updated>
+      <updated>1684342880585</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
