@@ -27,7 +27,7 @@ def bookAPI(request, bid) : #bid를 통해서 특정 책의 데이터를 가져�
     serializer = BookSerializer(book) #직렬화 과정
     return Response(serializer.data, status=status.HTTP_200_OK) #데이터를 반환하고 200 메세지를 보내면서 데이터를 가져오는 데 성공
 
-# #클래스형 View / 두 가지 차이점 비교해서 쓰기 벨로그에!!
+# #클래스형 View / 벨로그에 두 가지 차이점 비교해서 작성하기
 # class BooksAPI(APIView) :
 #     def get(self, request) :
 #         books = Book.objects.all()
